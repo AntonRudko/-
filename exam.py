@@ -12,7 +12,7 @@ for i1, i in enumerate(data):
         k += 1
 
 
-a = input("Enter your word -> ")
+a = input("Enter your word -> ")#введіть будь-яке слово із пісні
 m = []
 for i1, i in enumerate(arr):
     for j in i:
